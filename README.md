@@ -21,6 +21,7 @@ axis limits.
 6. Display the autocorrelation and partial autocorrelation plots for the ARMA(2,2) process using
 plot_acf and plot_pacf.
 ### PROGRAM:
+```py
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -92,7 +93,7 @@ plt.show()
 
 plot_pacf(ARMA_2)
 plt.show()
-
+```
 OUTPUT:
 SIMULATED ARMA(1,1) PROCESS:
 <img width="993" height="528" alt="image" src="https://github.com/user-attachments/assets/a0f362db-0b00-4869-be24-d420dbefb567" />
