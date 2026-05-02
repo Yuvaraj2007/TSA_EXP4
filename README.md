@@ -112,5 +112,5 @@ Partial Autocorrelation
 Autocorrelation
 <img width="1002" height="528" alt="image" src="https://github.com/user-attachments/assets/1fb54d7b-542d-404f-b374-5c6d239841d6" />
 
-RESULT:
+## RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
